@@ -25,7 +25,7 @@ Before starting, ensure you have the following installed on your development mac
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:smshaikh-official/Debugging-Lambda.git
 ```
 
 Go to the project directory
