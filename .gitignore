@@ -1,0 +1,9 @@
+
+#ignore the debug environment variable file.
+.env-debug
+
+#ignore the debug folder
+/lambda-functions/**/debug
+
+#ignore node_modules
+/node_modules
